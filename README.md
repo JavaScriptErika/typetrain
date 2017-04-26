@@ -1,6 +1,6 @@
 ## Topics
 
-- [ x ] Types
+- [x] Types
 - [x] Classes
 - [x] Compiler
     - [tsconfig.json](http://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
