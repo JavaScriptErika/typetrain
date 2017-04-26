@@ -1,11 +1,16 @@
-## Topics Covered
+## Topics
 
-#### Types
+- [ x ] Types
+- [x] Classes
+- [x] Compiler
+    - [tsconfig.json](http://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+    - [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
+- [ ] Interfaces
+- [ ] Decorators
+- [ ] React Specific Implementations
+- [ ] Async Patterns 
 
-#### Compiler
-
-- [tsconfig.json](http://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
-- [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
+## Important Bookmarks
 
 #### ES6 with TypeScript
 
