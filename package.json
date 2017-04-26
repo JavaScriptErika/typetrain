@@ -1,0 +1,15 @@
+{
+  "name": "typetrain",
+  "version": "1.0.0",
+  "description": "typescript training",
+  "main": "index.ts",
+  "repository": "https://github.com/levsthings/typetrain",
+  "author": "levsthings",
+  "license": "UNLICENSE",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
