@@ -28,7 +28,7 @@ let myObject: { username: string, age: number } = {
     age: 32
 }
 
-// example
+// complex example #1
 
 let complexObject: {data: number[], output: (all: boolean) => number[]} = {
     data: [100, 3,22, 10],
