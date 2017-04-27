@@ -10,7 +10,9 @@
     "start": "lite-server"
   },
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.3.0",
+    "ts-loader": "^2.0.3",
+    "webpack": "^2.4.1"
   },
   "dependencies": {
     "del": "^2.2.2",

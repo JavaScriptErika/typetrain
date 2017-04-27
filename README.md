@@ -12,7 +12,8 @@
     - [x] Class Decorators
     - [x] Decorator Factories
     - [ ] Method & Property Decorators
-- [ ] Working with External Libraries    
+- [x] Working with External Libraries
+- [ ] Workflow with webpack
 - [ ] React Specific Implementations
 - [ ] Async Patterns 
 
