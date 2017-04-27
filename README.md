@@ -7,8 +7,12 @@
     - [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
 - [x] Interfaces
 - [x] Generics
-    - TODO: add non-TypeScript related Generics theory articles for better understanding 
-- [ ] Decorators
+    - [ ]: add non-TypeScript related Generics theory articles for better understanding 
+- [x] Decorators
+    - [x] Class Decorators
+    - [x] Decorator Factories
+    - [ ] Method & Property Decorators
+- [ ] Working with External Libraries    
 - [ ] React Specific Implementations
 - [ ] Async Patterns 
 
