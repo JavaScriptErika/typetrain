@@ -5,7 +5,7 @@
 - [x] Compiler
     - [tsconfig.json](http://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
     - [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Decorators
 - [ ] React Specific Implementations
 - [ ] Async Patterns 
