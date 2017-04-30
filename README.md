@@ -7,7 +7,7 @@
     - [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
 - [x] Interfaces
 - [x] Generics
-    - [x]: [generics in C#](https://msdn.microsoft.com/en-us/library/0x6a29h6.aspx)
+    - [generics in C#](https://msdn.microsoft.com/en-us/library/0x6a29h6.aspx)
 - [x] Decorators
     - [x] Class Decorators
     - [x] Decorator Factories
