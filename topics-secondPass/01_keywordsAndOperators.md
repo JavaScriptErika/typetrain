@@ -1,0 +1,11 @@
+class => Container for members such as properties and functions 
+constructor => Provides initialization functionality in a class
+exports => Export a member from a module
+extends => Extend a class or interface
+implements => Implement an interface
+imports => Import a module
+interface => Defines a code contract that can be implemented by types
+module/namespace => Container for classes and other code
+public/private => Member visibilty modifiers
+<typeName> => <> characters use to cast/convert between types
+: => Seperator between variable/parameter names and types
