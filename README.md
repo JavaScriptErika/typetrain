@@ -7,13 +7,13 @@
     - [compiler options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
 - [x] Interfaces
 - [x] Generics
-    - [ ]: add non-TypeScript related Generics theory articles for better understanding 
+    - [x]: [generics in C#](https://msdn.microsoft.com/en-us/library/0x6a29h6.aspx)
 - [x] Decorators
     - [x] Class Decorators
     - [x] Decorator Factories
     - [ ] Method & Property Decorators
 - [x] Working with External Libraries
-- [ ] Workflow with webpack
+- [x] Workflow with webpack
 - [ ] React Specific Implementations
 - [ ] Async Patterns 
 
