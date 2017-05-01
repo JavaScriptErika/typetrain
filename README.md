@@ -18,7 +18,7 @@
 - [ ] Async Patterns 
 
 - My Boilerplates for React
-    - [ ] React-Redux TypeScript Client-Side Rendering: https://github.com/levsthings/react-redux-typescript-clientside
+    - [ ] React-Redux TypeScript Client-Side Rendering: (levsthings/react-redux-typescript-clientside)[https://github.com/levsthings/react-redux-typescript-clientside]
     - [ ] React-Redux TypeScript Server-Side Rendering
 
 ## Important Bookmarks
